@@ -1,5 +1,5 @@
 # RustBuster
-Web Application fuzzing tool written in rust. Similar functionality to dirbuster.
+Web Application fuzzing tool written in rust. Similar functionality to dirbuster. \n
 Usage: RustBuster <url> <wordlist> [options]
 Options:
   -sc : Filter by Status code
